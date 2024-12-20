@@ -1,2 +1,2 @@
-# Drum_kit
-This is a website having a Drum Kit, which is made using HTML, CSS, Js
+# diceGame
+This is a website having a dice game, which is made using HTML, CSS, Js
